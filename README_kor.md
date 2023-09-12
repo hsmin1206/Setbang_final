@@ -1,7 +1,7 @@
 # Spring MVC2 Team Project
 **SETbang 🏢 / 공유오피스 지원 시스템**
 
-[![Video Label](http://img.youtube.com/vi/{}/0.jpg)](https://youtu.be/{})
+[![Video Label](http://img.youtube.com/vi/iOZ7OaQsLnA/0.jpg)](https://youtu.be/iOZ7OaQsLnA)
 
 ## 💻 프로젝트 소개
 * 1인 & 소규모 사업자 창업 수요 증가로 인해 공유오피스의 수요 증가
