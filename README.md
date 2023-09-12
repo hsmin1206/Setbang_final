@@ -1,7 +1,7 @@
 # Spring MVC2 Team Project
 **SETbang 🏢 / Shared Office Support System**
 
-[![Video Label](http://img.youtube.com/vi/{}/0.jpg)](https://youtu.be/{})
+[![Video Label](http://img.youtube.com/vi/iOZ7OaQsLnA/0.jpg)](https://youtu.be/iOZ7OaQsLnA)
 
 ## 💻 Introduction
 * Increased demand for shared office due to increased demand for single-person & small-scale business start-ups.
